@@ -1,0 +1,41 @@
+content:
+- Overview of the basic program
+- Values and variables
+- The classification of basic types
+- Standard output
+- Invoking functions
+- Standard input
+- Type conversion
+- Reading data with a readln
+- String templates
+- Boolean and logical operations
+- Integers in action
+- Relational operators
+- If expression
+- Characters
+- Ranges
+- When expression
+- Working with strings
+- Declaring functions
+- Repeating blocks
+- Equality
+- Functions as objects
+- Lambda expressions
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- For loop and ranges
+- Introduction to MutableList
+- Work with MutableLists
+- For loop and lists
+- Arrays
+- Multi-dimensional array
+- Writing files
+- Image colors
+- Image libraries
+- While loops
+- List
+- Getting substrings
+- Data types
